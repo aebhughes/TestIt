@@ -1,2 +1,2 @@
-This is the initial, unchanged version of some source file
-
+This is the updated, changed version 2 of some source file
+With new line added
