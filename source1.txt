@@ -1,0 +1,2 @@
+This is the initial, unchanged version of some source file
+
